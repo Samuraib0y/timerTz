@@ -1,0 +1,14 @@
+.timerDisplay{
+    width: 400px;
+    height: 80px;
+    margin: 120px auto 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+
+.displayOne{
+    text-align: center;
+    font-size: 34px;
+    border: solid 3px red;
+}
